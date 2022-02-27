@@ -1,6 +1,6 @@
 (footprint "MX_Switch_Gateron_socket_A" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 621B1EA7)
+  (tedit 621B21CB)
   (descr "Cherry MX style mechanical keyboard switch with Gateron hot swap socket")
   (fp_text reference "REF**" (at 0 -8.45 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -48,9 +48,9 @@
   (pad "" np_thru_hole circle (at 0 0) (size 3.9878 3.9878) (drill 3.9878) (layers F&B.Cu *.Mask) (tstamp 4c069f0b-8c76-44a0-a999-7bd72a3e8dee))
   (pad "" np_thru_hole circle (at 3.81 2.54) (size 3 3) (drill 3) (layers F&B.Cu *.Mask) (tstamp e68fac9b-3de3-4acb-9bb0-3dee3685df22))
   (pad "1" thru_hole circle (at -3.81 -2.54) (size 2.4986 2.4986) (drill 1.4986) (layers *.Cu *.Mask) (tstamp 0de7d0e7-c8d5-482b-8e8a-d56acfc6ebd8))
-  (pad "1" smd rect (at 7.56 2.54) (size 2.5 2.55) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 9a025d13-3f10-4480-b02b-5650c6d28ed8))
+  (pad "1" smd rect (at -6.29 5.08) (size 2.5 2.55) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp a95b6208-cd25-486f-8a35-f7d7b1426174))
   (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.4986 2.4986) (drill 1.4986) (layers *.Cu *.Mask) (tstamp 7b58219a-a31d-4ba4-804a-77c6d706d8bc))
-  (pad "2" smd rect (at -6.29 5.08) (size 2.5 2.55) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp a95b6208-cd25-486f-8a35-f7d7b1426174))
+  (pad "2" smd rect (at 7.56 2.54) (size 2.5 2.55) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 9a025d13-3f10-4480-b02b-5650c6d28ed8))
   (group "" (id 082a1070-c8a0-47c7-911c-57dfd709c047)
     (members
       285c0832-59a4-4b2d-aa1e-732ce234cc34
