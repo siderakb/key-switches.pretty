@@ -1,0 +1,58 @@
+(footprint "MX_Low_Profile_combine_switch_hotswap_A" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 621B2CA7)
+  (descr "Mount for Cherry MX and Gateron Low Profile style mechanical keyboard switch, compatible with through-hole soldering and Gateron hot-swappable socket")
+  (fp_text reference "REF**" (at 0 8.5 unlocked) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 70186eba-dcad-4878-bf16-887f6eee49df)
+  )
+  (fp_text value "MX_Low_Profile_combine_switch_hotswap_A" (at 0 10.5 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp de588ed9-a530-46f0-aa03-e0307ff72286)
+  )
+  (fp_text user "${REFERENCE}" (at 0 0 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 27e3c71f-5a63-4710-8adf-b600b805ce02)
+  )
+  (fp_line (start -7.5 7.5) (end -7.5 6) (layer "F.SilkS") (width 0.14) (tstamp 0ceef4c0-1081-4e21-b370-88a8d72ec333))
+  (fp_line (start -7.5 7.5) (end -6 7.5) (layer "F.SilkS") (width 0.14) (tstamp 0e3aa148-4292-4380-9408-1e897be8da4f))
+  (fp_line (start -7.5 -7.5) (end -7.5 -6) (layer "F.SilkS") (width 0.14) (tstamp 37a423bc-f22b-4f78-8391-c64cc41bfdd6))
+  (fp_line (start 7.5 -7.5) (end 7.5 -6) (layer "F.SilkS") (width 0.14) (tstamp 51854738-fa9c-4052-b2b8-d2dde367270a))
+  (fp_line (start 7.5 7.5) (end 7.5 6) (layer "F.SilkS") (width 0.14) (tstamp 91686bb5-7a82-42fb-9000-db29e45a41fa))
+  (fp_line (start 7.5 7.5) (end 6 7.5) (layer "F.SilkS") (width 0.14) (tstamp c68b6527-fa3d-4bb2-bd93-e87165fb529e))
+  (fp_line (start -7.5 -7.5) (end -6 -7.5) (layer "F.SilkS") (width 0.14) (tstamp e3401cc1-8833-4b9f-9419-4adbb09db133))
+  (fp_line (start 7.5 -7.5) (end 6 -7.5) (layer "F.SilkS") (width 0.14) (tstamp fed927fe-eafb-4471-ac5d-756725ea174d))
+  (fp_rect (start -9.525 -9.525) (end 9.525 9.525) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 224cb80f-0214-436d-83a9-3238a87a048f))
+  (fp_rect (start -7.5 -7.5) (end 7.5 7.5) (layer "F.Fab") (width 0.1) (fill none) (tstamp 0d0df2ac-f3f7-482e-ba7c-5f666b048a62))
+  (pad "" np_thru_hole circle (at -5.08 0) (size 1.7 1.7) (drill 1.7) (layers *.Mask) (tstamp 3019c847-3ccf-490a-9dd6-694227c3fba5))
+  (pad "" np_thru_hole circle (at 5.08 0) (size 1.7 1.7) (drill 1.7) (layers *.Mask) (tstamp 3785b88e-f652-4024-afb0-be4c22cdaea8))
+  (pad "" np_thru_hole circle (at -2.6 5.75) (size 3 3) (drill 3) (layers *.Mask) (tstamp 3f43b8cc-e232-4de4-a8bc-56a1a1c0a87a))
+  (pad "" np_thru_hole circle (at 0 0) (size 5.1 5.1) (drill 5.1) (layers *.Mask) (tstamp 4c069f0b-8c76-44a0-a999-7bd72a3e8dee))
+  (pad "" np_thru_hole circle (at -2.54 5.08) (size 3 3) (drill 3) (layers *.Mask) (tstamp 6804c93f-0562-4107-a299-0544a2a93302))
+  (pad "" np_thru_hole circle (at 3.81 2.54) (size 3 3) (drill 3) (layers *.Mask) (tstamp a71983ba-1ae0-44c4-956c-f46fa4fe86be))
+  (pad "" np_thru_hole circle (at 4.4 4.7) (size 3 3) (drill 3) (layers *.Mask) (tstamp e68fac9b-3de3-4acb-9bb0-3dee3685df22))
+  (pad "1" thru_hole circle (at -4.4 -4.7) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp 0de7d0e7-c8d5-482b-8e8a-d56acfc6ebd8))
+  (pad "1" thru_hole circle (at -3.81 -2.54) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp 48d3b1d0-5b1b-46e5-ac8c-1f38f304334d))
+  (pad "1" smd rect (at -6.29 5.08) (size 2.5 2.55) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 58c3ffa0-f7a7-4177-9982-a63bf9d779e8))
+  (pad "1" smd rect (at -6.275 5.75) (size 2.5 2.55) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp a95b6208-cd25-486f-8a35-f7d7b1426174))
+  (pad "2" smd rect (at 7.56 2.54) (size 2.5 2.55) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 27f00f6c-d718-4159-aa40-19d3832a71b4))
+  (pad "2" thru_hole circle (at 2.6 -5.75) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp 7b58219a-a31d-4ba4-804a-77c6d706d8bc))
+  (pad "2" smd rect (at 8.075 4.7) (size 2.5 2.55) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 9a025d13-3f10-4480-b02b-5650c6d28ed8))
+  (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask) (tstamp c33005c7-46d9-4a2a-aca4-de8a6f22c2bd))
+  (group "" (id 96d70771-07c9-4c06-8116-5a7ef5847428)
+    (members
+      3f43b8cc-e232-4de4-a8bc-56a1a1c0a87a
+      9a025d13-3f10-4480-b02b-5650c6d28ed8
+      a95b6208-cd25-486f-8a35-f7d7b1426174
+      e68fac9b-3de3-4acb-9bb0-3dee3685df22
+    )
+  )
+  (group "" (id dd1071b0-ed96-46d9-a4e0-8ecd5805e1e2)
+    (members
+      27f00f6c-d718-4159-aa40-19d3832a71b4
+      58c3ffa0-f7a7-4177-9982-a63bf9d779e8
+      6804c93f-0562-4107-a299-0544a2a93302
+      a71983ba-1ae0-44c4-956c-f46fa4fe86be
+    )
+  )
+)
