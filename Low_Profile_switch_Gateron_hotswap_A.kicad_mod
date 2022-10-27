@@ -1,7 +1,7 @@
 (footprint "Low_Profile_switch_Gateron_hotswap_A" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 621B2CA7)
-  (descr "Mount for Gateron Low Profile style mechanical keyboard switch, compatible with through-hole soldering and Gateron hot-swappable socket")
+  (descr "Single-sided mounting for Gateron Low Profile style mechanical keyboard switch, compatible with through-hole soldering and Gateron hot-swappable socket")
   (fp_text reference "REF**" (at 0 8.5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 70186eba-dcad-4878-bf16-887f6eee49df)
