@@ -1,6 +1,7 @@
 (footprint "Kailh_Choc_PG1350_THT_A" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
+  (descr "Single-sided mounting for Kailh Choc (PG1350) style mechanical keyboard switch, compatible with through-hole soldering.")
   (attr through_hole)
   (fp_text reference "REF**" (at 0 6.5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
