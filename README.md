@@ -2,7 +2,7 @@
 
 This is a [KiCad](https://www.kicad.org/) footprint library of mechanical keyboard switches.
 
-> A part of [ErgoSNM keyboard](https://github.com/ziteh/ergo-snm-keyboard).
+> A part of [ErgoSNM keyboard](https://github.com/ziteh/ergo-snm-keyboard) project.  
 
 |                   Name                   | Description                                                                                                                                                                                                            |               Preview                |
 | :--------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------: |
