@@ -16,7 +16,6 @@ This is a [KiCad](https://www.kicad.org/) footprint library of mechanical keyboa
 |     MX_Low_Profile_switch_THT_hotswap_A     | Single-sided mounting for MX Gateron Low Profile style mechanical keyboard switch, compatible with through-hole soldering and Gateron hot-swap socket.                                                            | ![](https://i.imgur.com/Qr6qtoj.png) |
 | MX_Low_Profile_combine_switch_THT_hotswap_A | Single-sided mounting for Cherry MX and Gateron Low Profile style mechanical keyboard switch, compatible with through-hole soldering and Gateron hot-swap socket. (not recommend)                                 | ![](https://i.imgur.com/pJa5Bhd.png) |
 |    MX_switch_PTH_hotswap_double_sided_A     | Double-sided mounting for Cherry MX style mechanical keyboard switch, compatible with through-hole soldering and Kailh/Gateron hot-swap socket, the hole of the socket is plated.                                 | ![](https://i.imgur.com/A251uNJ.jpg) |
-|           Kailh_Choc_PG1350_THT_A           | Single-sided mounting for Kailh Choc (PG1350) style mechanical keyboard switch, compatible with through-hole soldering.                                                                                           | ![](https://i.imgur.com/Sjha9S6.jpg) |
 
 
 ## Kailh Choc Style (PG1350)
