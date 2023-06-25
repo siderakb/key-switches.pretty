@@ -2,8 +2,6 @@
 
 This is a [KiCad](https://www.kicad.org/) footprint library of mechanical keyboard switches.
 
-> A part of [ErgoSNM keyboard](https://github.com/ziteh/ergo-snm-keyboard) project.  
-
 ## Compatibility Table
 
 | Footprint                                   |     Cherry MX      | Cherry MX Low Profile |   TTC KS32   |   Kailh Choc V1    |   Kailh Choc V2    | Gateron Low Profile |     THT *(1)*      |      Hot-Swap      | Note         |
