@@ -61,6 +61,8 @@ This is a [KiCad](https://www.kicad.org/) footprint library of mechanical keyboa
 | SW_MX_Kailh_Choc_V1V2_THT_Hybrid            | ![](https://i.imgur.com/1l7HB0J.png) |
 | SW_MX_LowProfile_Kailh_Choc_V1V2_THT_Hybrid | ![](https://i.imgur.com/9mmCyuX.jpg) |
 
+> Preview images are for reference only and may not be updated with the footprints.
+
 ## License
 
 This library is released under the [MIT License](/LICENSE).

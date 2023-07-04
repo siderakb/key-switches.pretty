@@ -6,7 +6,7 @@
 
 ## 兼容表
 
-| Footprint                                   |     Cherry MX      | Cherry MX Low Profile |   TTC KS32   | Kailh Choc V1 *(7)* | Kailh Choc V2 *(8)* | Gateron Low Profile *(9)* |     THT *(1)*      |      Hot-Swap      | 備註   |
+| Footprint                                   |     Cherry MX      | Cherry MX Low Profile |   TTC KS32   | Kailh Choc V1 *(7)* | Kailh Choc V2 *(8)* | Gateron Low Profile *(9)* |     THT *(1)*      |       熱插拔       | 備註   |
 | :------------------------------------------ | :----------------: | :-------------------: | :----------: | :-----------------: | :-----------------: | :-----------------------: | :----------------: | :----------------: | :----- |
 | SW_MX_THT                                   | :white_check_mark: |                       |              |                     |                     |                           | :white_check_mark: |                    |        |
 | SW_MX_HotSwap_THT                           | :white_check_mark: |                       |              |                     |                     |                           | :white_check_mark: | :white_check_mark: |        |
@@ -60,6 +60,8 @@
 | SW_Kailh_Choc_V1V2_THT_Hybrid               | ![](https://i.imgur.com/DStr5La.jpg) |
 | SW_MX_Kailh_Choc_V1V2_THT_Hybrid            | ![](https://i.imgur.com/1l7HB0J.png) |
 | SW_MX_LowProfile_Kailh_Choc_V1V2_THT_Hybrid | ![](https://i.imgur.com/9mmCyuX.jpg) |
+
+> 預覽圖片僅供參考，不一定會隨 Footprint 更新。
 
 ## 授權許可
 
