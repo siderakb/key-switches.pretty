@@ -31,8 +31,6 @@
     (stroke (width 0.14) (type solid)) (layer "F.SilkS") (tstamp e3401cc1-8833-4b9f-9419-4adbb09db133))
   (fp_line (start 7.5 7.5) (end 7.5 6)
     (stroke (width 0.14) (type solid)) (layer "F.SilkS") (tstamp 37a423bc-f22b-4f78-8391-c64cc41bfdd6))
-  (fp_rect (start 9.525 9.525) (end -9.525 -9.525)
-    (stroke (width 0.1) (type solid)) (fill none) (layer "Dwgs.User") (tstamp 5c7d769d-9a21-43db-861a-4d330250d4c2))
   (fp_rect (start 8.25 8.25) (end -8.25 -8.25)
     (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd") (tstamp 5909dbaf-8c37-4e39-b1fe-17e6b5f5cbd7))
   (fp_rect (start 7.5 7.5) (end -7.5 -7.5)

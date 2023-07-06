@@ -87,8 +87,6 @@
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp fdba95fe-14f3-4f01-99f5-d9a6161bd2aa))
   (fp_arc (start 0 2.54) (mid -1.480188 2.071204) (end -2.413 0.83)
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp a94a48dd-406c-4571-b79f-fbd6044997f7))
-  (fp_rect (start 9.525 -9.525) (end -9.525 9.525)
-    (stroke (width 0.1) (type solid)) (fill none) (layer "Dwgs.User") (tstamp de192172-aa98-4044-a4f3-b873b43e4e26))
   (fp_poly
     (pts
       (xy 8.25 0.5)
