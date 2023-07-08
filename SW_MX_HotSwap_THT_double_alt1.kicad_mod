@@ -173,14 +173,14 @@
   (pad "" np_thru_hole circle (at 2.54 5.08) (size 3 3) (drill 3) (layers "*.Mask") (tstamp bcf0e2c5-aff0-4dac-9138-979649dce681))
   (pad "" np_thru_hole circle (at 3.81 2.54) (size 3 3) (drill 3) (layers "*.Mask") (tstamp e68fac9b-3de3-4acb-9bb0-3dee3685df22))
   (pad "" np_thru_hole circle (at 5.08 0) (size 1.7 1.7) (drill 1.7) (layers "*.Mask") (tstamp 3785b88e-f652-4024-afb0-be4c22cdaea8))
-  (pad "1" smd rect (at -7.56 2.54) (size 2.5 2.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f5b80352-eaf3-4612-a777-4abcba45618e))
-  (pad "1" smd rect (at -6.29 5.08) (size 2.5 2.55) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp a95b6208-cd25-486f-8a35-f7d7b1426174))
+  (pad "1" smd roundrect (at -7.56 2.54) (size 2.5 2.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp f5b80352-eaf3-4612-a777-4abcba45618e))
+  (pad "1" smd roundrect (at -6.29 5.08) (size 2.5 2.55) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.2) (tstamp a95b6208-cd25-486f-8a35-f7d7b1426174))
   (pad "1" thru_hole circle (at -3.81 -2.54) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 0de7d0e7-c8d5-482b-8e8a-d56acfc6ebd8))
   (pad "1" thru_hole circle (at -2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 2a228f58-2773-4622-8b58-ba956bf74e3e))
   (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 7b58219a-a31d-4ba4-804a-77c6d706d8bc))
   (pad "2" thru_hole circle (at 3.81 -2.54) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp d3e0e5fb-b5a1-4fd6-9305-34243ca24d10))
-  (pad "2" smd rect (at 6.29 5.08) (size 2.5 2.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8f93bfd3-0f99-45c7-86eb-eb187e5365c9))
-  (pad "2" smd rect (at 7.56 2.54) (size 2.5 2.55) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 9a025d13-3f10-4480-b02b-5650c6d28ed8))
+  (pad "2" smd roundrect (at 6.29 5.08) (size 2.5 2.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2) (tstamp 8f93bfd3-0f99-45c7-86eb-eb187e5365c9))
+  (pad "2" smd roundrect (at 7.56 2.54) (size 2.5 2.55) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.2) (tstamp 9a025d13-3f10-4480-b02b-5650c6d28ed8))
   (group "" (id dce1b0f7-f3ce-42a3-aa34-f5418ea16911)
     (members
       049cbf95-042a-40dc-a3fc-1ac7942a1668

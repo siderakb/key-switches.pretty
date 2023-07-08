@@ -92,8 +92,8 @@
   (pad "" np_thru_hole circle (at 0 0) (size 3.429 3.429) (drill 3.429) (layers "*.Cu" "*.Mask") (tstamp ad1155c1-3993-47bc-8396-14fd50a76ca3))
   (pad "" np_thru_hole circle (at 0 5.9) (size 3 3) (drill 3) (layers "F&B.Cu" "*.Mask") (tstamp a8363857-5068-493d-929b-4bd7a2eaed1f))
   (pad "" np_thru_hole circle (at 5.5 0) (size 1.7018 1.7018) (drill 1.7018) (layers "*.Cu" "*.Mask") (tstamp 3f1a1163-3f56-4af5-a7c7-7100bc300d13))
-  (pad "1" smd rect (at 3.7 5.9) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp a42b85c0-1d92-4a0b-ae53-30911b10dc57))
-  (pad "2" smd rect (at -8.7 3.8) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 9778d5d4-86dc-4ddf-aacf-75aa3af46d09))
+  (pad "1" smd roundrect (at 3.7 5.9) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.2) (tstamp a42b85c0-1d92-4a0b-ae53-30911b10dc57))
+  (pad "2" smd roundrect (at -8.7 3.8) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0.2) (tstamp 9778d5d4-86dc-4ddf-aacf-75aa3af46d09))
   (group "" (id 29819828-167d-4b6d-9d47-3594fe04d6b6)
     (members
       4f67519d-2b99-4479-b8ba-4acf60a8ca82
