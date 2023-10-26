@@ -2,7 +2,6 @@
   (layer "F.Cu")
   (descr "Cherry MX style mechanical keyboard switch, Kailh/Gateron hot-swap socket and through-hole soldering, double-sided mounting.")
   (tags "switch, hot_swap")
-  (attr through_hole)
   (fp_text reference "REF**" (at 0 -8.5 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 70186eba-dcad-4878-bf16-887f6eee49df)

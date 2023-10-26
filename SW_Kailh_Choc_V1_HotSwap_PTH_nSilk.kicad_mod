@@ -2,7 +2,6 @@
   (layer "F.Cu")
   (descr "Kailh Choc V1 (PG1350) low profile mechanical keyboard switch, hot-swap socket, the hole of the socket is plated, single-sided mounting.")
   (tags "switch, low_profile, hot_swap")
-  (attr through_hole)
   (fp_text reference "REF**" (at 0 -8.5 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e107caae-dcb5-4083-9a90-396d4fd59057)
