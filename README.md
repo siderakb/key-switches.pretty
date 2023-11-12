@@ -2,7 +2,7 @@
 
 [:globe_with_meridians:中文](/readme_zh-TW.md)
 
-This is a [KiCad](https://www.kicad.org/) footprint library of mechanical keyboard switches, released under the [MIT License](/LICENSE).
+This is a [KiCad](https://www.kicad.org/) footprint library of mechanical keyboard switches, released under the [CERN-OHL-P v2](/LICENSE).
 
 ## Usage
 
@@ -10,7 +10,7 @@ It is recommended to use this library with [KiCAD KLE Placer](https://github.com
 
 If you're using Git, you can include this library as a [submodule](https://git-scm.com/docs/git-submodule) via `git submodule add https://github.com/siderakb/key-switches.pretty.git`
 
-Keyboards created using this library: [ErgoSNM](https://github.com/siderakb/ergo-snm-keyboard), [Calcite](https://github.com/siderakb/calcite).
+Keyboards created using this library: [ErgoSNM](https://github.com/siderakb/ergo-snm-keyboard), [Calcite](https://github.com/siderakb/calcite), [MS60](https://github.com/siderakb/ms60).
 
 ## Compatibility Table
 

@@ -2,7 +2,7 @@
 
 [:globe_with_meridians:English](/README.md)
 
-此為機械鍵盤鍵軸的 [KiCad](https://www.kicad.org/) Footprint 庫，以 [MIT 授權許可](/LICENSE)發佈。
+此為機械鍵盤鍵軸的 [KiCad](https://www.kicad.org/) Footprint 庫，以 [CERN-OHL-P v2 授權許可](/LICENSE)發佈。
 
 ## 用法
 
@@ -10,7 +10,7 @@
 
 如果你在使用 Git，你可以將本庫作爲 [submodule](https://git-scm.com/docs/git-submodule) 使用，指令爲：`git submodule add https://github.com/siderakb/key-switches.pretty.git`
 
-使用本庫所製作的鍵盤：[ErgoSNM](https://github.com/siderakb/ergo-snm-keyboard)、[Calcite](https://github.com/siderakb/calcite)。
+使用本庫所製作的鍵盤：[ErgoSNM](https://github.com/siderakb/ergo-snm-keyboard)、[Calcite](https://github.com/siderakb/calcite)、[MS60](https://github.com/siderakb/ms60)。
 
 ## 兼容表
 
