@@ -43,7 +43,7 @@ Keyboards created using this library: [ErgoSNM](https://github.com/siderakb/ergo
 [^tht]: THT means through-hole soldering.
 [^pth]: PTH means the holes of the Hot-Swap socket are plated, and the switches can be soldered directly without using a socket. However, the soldering difficulty is higher compared to the standard THT edition.
 [^k-choc1]: Kailh Choc V1 also known as PG1350.
-[^k-choc2]: Kailh Choc V2 also known as PG1350.
+[^k-choc2]: Kailh Choc V2 also known as PG1353.
 [^g-lp]: Gateron Low Profile 1.0 (aka KS-27) and 2.0 (aka KS-33) footprint are compatible.
 [^t-ks_vs_c-mxlp]: TTC KS32 and Cherry MX Low Profile are very similar, basically compatible.
 [^k-choc1_vs_k-choc2]: The center fix pin of Choc V1 is smaller than Choc V2, however Choc V1 has two additional fix pins ensuring its stability.
