@@ -35,6 +35,7 @@ Keyboards created using this library: [ErgoSNM](https://github.com/siderakb/ergo
 | ![](https://i.imgur.com/mK65Vrx.jpg) | Kailh_Choc_V2_THT                        |                           |                       |                          |                             |     :white_check_mark:     |                             | :white_check_mark: |                    |      :white_check_mark:       |                                |
 | ![](https://i.imgur.com/DStr5La.jpg) | Kailh_Choc_V1V2_THT_Hybrid               |                           |                       |                          | :bulb:[^k-choc1_vs_k-choc2] |     :white_check_mark:     |                             | :white_check_mark: |                    |                               |                                |
 | ![](https://i.imgur.com/1l7HB0J.png) | MX_Kailh_Choc_V1V2_THT_Hybrid            | :bulb: [^c-mx_vs_k-choc2] |                       |                          | :bulb:[^k-choc1_vs_k-choc2] |     :white_check_mark:     |                             | :white_check_mark: |                    |                               |                                |
+| ![](https://i.imgur.com/C1j6IZU.png) | MX_Kailh_Choc_V1V2_HotSwap_Hybrid        | :bulb: [^c-mx_vs_k-choc2] |                       |                          | :bulb:[^k-choc1_vs_k-choc2] |     :white_check_mark:     |                             |                    | :white_check_mark: |                               |                                |
 | ![](https://i.imgur.com/9mmCyuX.jpg) | MX_LowProfile_Kailh_Choc_V1V2_THT_Hybrid |                           |  :white_check_mark:   | :bulb: [^t-ks_vs_c-mxlp] | :bulb:[^k-choc1_vs_k-choc2] | :bulb:[^k-choc2_vs_c-mxlp] |                             | :white_check_mark: |                    |                               |                                |
 
 > :white_check_mark:: Compatible; :bulb:: Conditionally compatible; Blank: Not compatible.
@@ -53,4 +54,3 @@ Keyboards created using this library: [ErgoSNM](https://github.com/siderakb/ergo
 [^ns-suffix]: The footprint with "nSilk" suffix means no top layer silkscreen.
 [^swap-suffix]: The footprint with "swap" suffix means the pin number swap.
 [^k-cooc1-alt]: *Kailh_Choc_V1_THT_alt1* has one more NPTH than *Kailh_Choc_V1_THT*, and this hole is located at the position of the spring in the Clicky switch (e.g. White, Jade). If you are likely to use Clicky switches it is recommended to use *Kailh_Choc_V1_THT_alt1*.
-
