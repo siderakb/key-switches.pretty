@@ -1,0 +1,14 @@
+{
+  "name": "key-switches.pretty",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "export": "kicad-cli fp export svg -o ./export/ ./../",
+    "svg": "node ./svg-processor.js",
+    "run:all": "npm run export && npm run svg"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "svgo": "^4.0.0"
+  }
+}
